@@ -1,32 +1,62 @@
-# Email Booking CS Logistic
+### Case: Booking Request
 
-**Subject:** Booking dịch vụ vận chuyển – [Tên công ty/Khách hàng]
-
----
-
-Kính gửi **CS Logistic**,
-
-Tôi là **[Tên bạn]** đến từ **[Tên công ty/khách hàng]**.  
-Chúng tôi có nhu cầu đặt dịch vụ vận chuyển với các thông tin như sau:
-
-- **Loại hàng hóa:** [Mô tả hàng hóa]  
-- **Số lượng/Khối lượng:** [Chi tiết]  
-- **Điểm xuất phát:** [Địa chỉ]  
-- **Điểm đến:** [Địa chỉ]  
-- **Thời gian dự kiến:** [Ngày/Giờ]  
-
-Kính mong Quý công ty xác nhận booking và gửi báo giá chi tiết.  
-Nếu cần thêm thông tin, vui lòng liên hệ với tôi qua:
-
-- **Email:** [Email của bạn]  
-- **SĐT:** [Số điện thoại của bạn]  
-
-Xin chân thành cảm ơn và mong nhận được phản hồi sớm từ Quý công ty.
+- Situation: Customer requests booking for export shipment  
+- Role: Customer  
+- Language: English  
 
 ---
 
-**Trân trọng,**  
-[Tên bạn]  
-[Chức vụ]  
-[Tên công ty]  
-[Thông tin liên hệ]
+Email
+
+From: sales@abccompany.com  
+To: cs@logistics.com  
+Subject: Booking Request – Shipment from Ho Chi Minh to Shanghai  
+
+Dear CS Team,
+
+We would like to place a booking for the following shipment:
+
+- Cargo: Electronics (5 pallets, 2 CBM, 1,200 kgs)  
+- Port of Loading (POL): Ho Chi Minh, Vietnam  
+- Port of Discharge (POD): Shanghai, China  
+- Expected ETD: April 15, 2026  
+
+Kindly check space availability and advise the earliest schedule.
+
+Please also provide the booking confirmation and relevant details once available.
+
+Should you require any further information, please feel free to contact us.
+
+Thank you for your support.
+
+Best regards,  
+Minh Huynh  
+Sales Executive  
+ABC Company  
+Email: sales@abccompany.com  
+Phone: +84 912 345 678  
+
+---
+
+### 中文版本 (Chinese Version)
+
+尊敬的客户服务团队：
+
+我们希望预订以下货物的运输服务：
+
+- 货物：电子产品（5托盘，2立方米，1200公斤）  
+- 起运港：越南胡志明市  
+- 目的港：中国上海  
+- 预计开船时间：2026年4月15日  
+
+请帮忙确认舱位情况，并提供最早船期。
+
+确认后请发送订舱确认及相关信息。
+
+如需更多信息，请随时与我们联系。
+
+感谢您的支持！
+
+此致  
+敬礼  
+Minh Huynh
